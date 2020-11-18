@@ -15,4 +15,5 @@
      <url>http://localhost:8081/repository/CICD_Assignment_1/</url>
    </snapshotRepository>
 </distributionManagement>
+
 </project>
